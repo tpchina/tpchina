@@ -32,3 +32,9 @@ projects:
   -
     name: Verified Software Toolchain
     url: https://vst.cs.princeton.edu/
+  -
+    name: lets-prove-leftpad
+    url: https://github.com/hwayne/lets-prove-leftpad
+  -
+    name: Type Theory for All
+    url: https://www.typetheoryforall.com/
